@@ -1,0 +1,437 @@
+{
+    "children": [
+        {
+            "color": "#e6194b",
+            "children": [
+                {
+                    "children": [
+                        {
+                            "size": 287,
+                            "name": "Wasit",
+                            "description": "Wasit: 287 dirhams"
+                        }
+                    ],
+                    "name": "Wasit"
+                }
+            ],
+            "name": "Wasit"
+        },
+        {
+            "color": "#3cb44b",
+            "children": [
+                {
+                    "children": [
+                        {
+                            "size": 4,
+                            "name": "Abarshahr",
+                            "description": "Abarshahr: 4 dirhams"
+                        },
+                        {
+                            "size": 2,
+                            "name": "Anbir",
+                            "description": "Anbir: 2 dirhams"
+                        },
+                        {
+                            "size": 3,
+                            "name": "Harāt",
+                            "description": "Harāt: 3 dirhams"
+                        },
+                        {
+                            "size": 2,
+                            "name": "Hr (Herāt?)",
+                            "description": "Hr (Herāt?): 2 dirhams"
+                        },
+                        {
+                            "size": 93,
+                            "name": "Marw",
+                            "description": "Marw: 93 dirhams"
+                        },
+                        {
+                            "size": 1,
+                            "name": "Naysabur",
+                            "description": "Naysabur: 1 dirhams"
+                        }
+                    ],
+                    "name": "Khurasan"
+                }
+            ],
+            "name": "Khurasan"
+        },
+        {
+            "color": "#ffe119",
+            "children": [
+                {
+                    "children": [
+                        {
+                            "size": 32,
+                            "name": "Al-Sus",
+                            "description": "Al-Sus: 32 dirhams"
+                        },
+                        {
+                            "size": 37,
+                            "name": "Junday Sabur",
+                            "description": "Junday Sabur: 37 dirhams"
+                        },
+                        {
+                            "size": 18,
+                            "name": "Manadhir",
+                            "description": "Manadhir: 18 dirhams"
+                        },
+                        {
+                            "size": 22,
+                            "name": "Nahr Tira",
+                            "description": "Nahr Tira: 22 dirhams"
+                        },
+                        {
+                            "size": 22,
+                            "name": "Ramhurmuz",
+                            "description": "Ramhurmuz: 22 dirhams"
+                        },
+                        {
+                            "size": 36,
+                            "name": "Suq al-Ahwaz",
+                            "description": "Suq al-Ahwaz: 36 dirhams"
+                        },
+                        {
+                            "size": 23,
+                            "name": "Surraq",
+                            "description": "Surraq: 23 dirhams"
+                        },
+                        {
+                            "size": 2,
+                            "name": "Tustar",
+                            "description": "Tustar: 2 dirhams"
+                        }
+                    ],
+                    "name": "Ahwaz"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 17,
+                            "name": "Abarqubadh",
+                            "description": "Abarqubadh: 17 dirhams"
+                        },
+                        {
+                            "size": 29,
+                            "name": "Al-Furat",
+                            "description": "Al-Furat: 29 dirhams"
+                        },
+                        {
+                            "size": 195,
+                            "name": "Basra",
+                            "description": "Basra: 195 dirhams"
+                        },
+                        {
+                            "size": 13,
+                            "name": "Dasht-i Maysan",
+                            "description": "Dasht-i Maysan: 13 dirhams"
+                        },
+                        {
+                            "size": 39,
+                            "name": "Maysan",
+                            "description": "Maysan: 39 dirhams"
+                        }
+                    ],
+                    "name": "Basra"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 3,
+                            "name": "Ard",
+                            "description": "Ard: 3 dirhams"
+                        },
+                        {
+                            "size": 6,
+                            "name": "Ardashir Khurra",
+                            "description": "Ardashir Khurra: 6 dirhams"
+                        },
+                        {
+                            "size": 12,
+                            "name": "Bizamqubadh",
+                            "description": "Bizamqubadh: 12 dirhams"
+                        },
+                        {
+                            "size": 12,
+                            "name": "Darabjird",
+                            "description": "Darabjird: 12 dirhams"
+                        },
+                        {
+                            "size": 31,
+                            "name": "Fasa",
+                            "description": "Fasa: 31 dirhams"
+                        },
+                        {
+                            "size": 21,
+                            "name": "Istakhr",
+                            "description": "Istakhr: 21 dirhams"
+                        },
+                        {
+                            "size": 18,
+                            "name": "Jur",
+                            "description": "Jur: 18 dirhams"
+                        },
+                        {
+                            "size": 64,
+                            "name": "Sabur",
+                            "description": "Sabur: 64 dirhams"
+                        },
+                        {
+                            "size": 2,
+                            "name": "Tawwaj",
+                            "description": "Tawwaj: 2 dirhams"
+                        }
+                    ],
+                    "name": "Fars"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 1,
+                            "name": "Bardasir",
+                            "description": "Bardasir: 1 dirhams"
+                        },
+                        {
+                            "size": 1,
+                            "name": "Jiroft",
+                            "description": "Jiroft: 1 dirhams"
+                        }
+                    ],
+                    "name": "Kirman"
+                }
+            ],
+            "name": "Basra"
+        },
+        {
+            "color": "#4363d8",
+            "children": [
+                {
+                    "children": [
+                        {
+                            "size": 3,
+                            "name": "Oman",
+                            "description": "Oman: 3 dirhams"
+                        }
+                    ],
+                    "name": "Arabia"
+                }
+            ],
+            "name": "Arabia"
+        },
+        {
+            "color": "#f58231",
+            "children": [
+                {
+                    "children": [
+                        {
+                            "size": 17,
+                            "name": "Al-Rayy",
+                            "description": "Al-Rayy: 17 dirhams"
+                        },
+                        {
+                            "size": 8,
+                            "name": "Dastawa",
+                            "description": "Dastawa: 8 dirhams"
+                        },
+                        {
+                            "size": 22,
+                            "name": "Hamadhan",
+                            "description": "Hamadhan: 22 dirhams"
+                        },
+                        {
+                            "size": 1,
+                            "name": "Hulwan",
+                            "description": "Hulwan: 1 dirhams"
+                        },
+                        {
+                            "size": 74,
+                            "name": "Jayy",
+                            "description": "Jayy: 74 dirhams"
+                        },
+                        {
+                            "size": 35,
+                            "name": "Mah al-Basra (Nihawand)",
+                            "description": "Mah al-Basra (Nihawand): 35 dirhams"
+                        },
+                        {
+                            "size": 5,
+                            "name": "Mah al-Kufa (Dinawar)",
+                            "description": "Mah al-Kufa (Dinawar): 5 dirhams"
+                        },
+                        {
+                            "size": 1,
+                            "name": "Mihrjanqadhaq",
+                            "description": "Mihrjanqadhaq: 1 dirhams"
+                        },
+                        {
+                            "size": 53,
+                            "name": "Shaqq al-Taymara",
+                            "description": "Shaqq al-Taymara: 53 dirhams"
+                        }
+                    ],
+                    "name": "Jibal"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 6,
+                            "name": "Al-Dasakir",
+                            "description": "Al-Dasakir: 6 dirhams"
+                        },
+                        {
+                            "size": 2,
+                            "name": "Al-Hira",
+                            "description": "Al-Hira: 2 dirhams"
+                        },
+                        {
+                            "size": 54,
+                            "name": "Al-Kufa",
+                            "description": "Al-Kufa: 54 dirhams"
+                        },
+                        {
+                            "size": 1,
+                            "name": "Al-Zawabi",
+                            "description": "Al-Zawabi: 1 dirhams"
+                        },
+                        {
+                            "size": 3,
+                            "name": "Astan",
+                            "description": "Astan: 3 dirhams"
+                        },
+                        {
+                            "size": 4,
+                            "name": "Bazijakhusra",
+                            "description": "Bazijakhusra: 4 dirhams"
+                        },
+                        {
+                            "size": 2,
+                            "name": "Bihqubadh al-aʿla",
+                            "description": "Bihqubadh al-aʿla: 2 dirhams"
+                        },
+                        {
+                            "size": 3,
+                            "name": "Kaskar",
+                            "description": "Kaskar: 3 dirhams"
+                        },
+                        {
+                            "size": 9,
+                            "name": "Madīnat Bahurasir",
+                            "description": "Madīnat Bahurasir: 9 dirhams"
+                        }
+                    ],
+                    "name": "Kufa"
+                },
+                {
+                    "children": [
+                        {
+                            "size": 1,
+                            "name": "Adharbayjan",
+                            "description": "Adharbayjan: 1 dirhams"
+                        },
+                        {
+                            "size": 1,
+                            "name": "Al-Jazira",
+                            "description": "Al-Jazira: 1 dirhams"
+                        },
+                        {
+                            "size": 3,
+                            "name": "Al-Mawsil",
+                            "description": "Al-Mawsil: 3 dirhams"
+                        },
+                        {
+                            "size": 10,
+                            "name": "Armīniya",
+                            "description": "Armīniya: 10 dirhams"
+                        },
+                        {
+                            "size": 5,
+                            "name": "Arran",
+                            "description": "Arran: 5 dirhams"
+                        },
+                        {
+                            "size": 29,
+                            "name": "Dabil",
+                            "description": "Dabil: 29 dirhams"
+                        },
+                        {
+                            "size": 31,
+                            "name": "Harran",
+                            "description": "Harran: 31 dirhams"
+                        },
+                        {
+                            "size": 6,
+                            "name": "Tiflis",
+                            "description": "Tiflis: 6 dirhams"
+                        }
+                    ],
+                    "name": "North"
+                }
+            ],
+            "name": "Kufa"
+        },
+        {
+            "color": "#46f0f0",
+            "children": [
+                {
+                    "children": [
+                        {
+                            "size": 383,
+                            "name": "Dimashq",
+                            "description": "Dimashq: 383 dirhams"
+                        }
+                    ],
+                    "name": "Sham"
+                }
+            ],
+            "name": "Syria"
+        },
+        {
+            "color": "#f032e6",
+            "children": [
+                {
+                    "children": [
+                        {
+                            "size": 25,
+                            "name": "Al-Jisr",
+                            "description": "Al-Jisr: 25 dirhams"
+                        },
+                        {
+                            "size": 2,
+                            "name": "Al-Niq",
+                            "description": "Al-Niq: 2 dirhams"
+                        },
+                        {
+                            "size": 8,
+                            "name": "Anibar",
+                            "description": "Anibar: 8 dirhams"
+                        },
+                        {
+                            "size": 2,
+                            "name": "Aoudh",
+                            "description": "Aoudh: 2 dirhams"
+                        },
+                        {
+                            "size": 19,
+                            "name": "Fil",
+                            "description": "Fil: 19 dirhams"
+                        },
+                        {
+                            "size": 2,
+                            "name": "without mint name",
+                            "description": "without mint name: 2 dirhams"
+                        },
+                        {
+                            "size": 1,
+                            "name": "Al-Kr",
+                            "description": "Al-Kr: 1 dirhams"
+                        }
+                    ],
+                    "name": "unidentified"
+                }
+            ],
+            "name": "unidentified"
+        }
+    ],
+    "name": "Islamic Empire 78-90 AH"
+}
