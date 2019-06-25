@@ -1,0 +1,102 @@
+{
+    "name": "Islamic Empire 78_90 AH",
+    "children": [
+        {
+            "name": "Syria",
+            "color": "#e6194b",
+            "children": [
+                {
+                    "name": "Sham",
+                    "size": 20.38,
+                    "description": 383
+                }
+            ]
+        },
+        {
+            "name": "Arabia",
+            "color": "#3cb44b",
+            "children": [
+                {
+                    "name": "Arabia",
+                    "size": 0.16,
+                    "description": 3
+                }
+            ]
+        },
+        {
+            "name": "Wasit",
+            "color": "#ffe119",
+            "children": [
+                {
+                    "name": "Wasit",
+                    "size": 15.27,
+                    "description": 287
+                }
+            ]
+        },
+        {
+            "name": "Basra",
+            "color": "#4363d8",
+            "children": [
+                {
+                    "name": "Fars",
+                    "size": 8.83,
+                    "description": 166
+                },
+                {
+                    "name": "Kirman",
+                    "size": 0.11,
+                    "description": 2
+                },
+                {
+                    "name": "Ahwaz",
+                    "size": 10.22,
+                    "description": 192
+                }
+            ]
+        },
+        {
+            "name": "Khurasan",
+            "color": "#f58231",
+            "children": [
+                {
+                    "name": "Khurasan",
+                    "size": 5.59,
+                    "description": 105
+                }
+            ]
+        },
+        {
+            "name": "Kufa",
+            "color": "#46f0f0",
+            "children": [
+                {
+                    "name": "North",
+                    "size": 4.58,
+                    "description": 86
+                },
+                {
+                    "name": "Kufa",
+                    "size": 4.47,
+                    "description": 84
+                },
+                {
+                    "name": "Jibal",
+                    "size": 11.5,
+                    "description": 216
+                }
+            ]
+        },
+        {
+            "name": "undefined",
+            "color": "#f032e6",
+            "children": [
+                {
+                    "name": "undefined",
+                    "size": 3.3,
+                    "description": 62
+                }
+            ]
+        }
+    ]
+}
