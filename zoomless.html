@@ -43,7 +43,7 @@ var arc = d3.svg.arc()
     .outerRadius(function(d) { return Math.sqrt(d.y + d.dy); });
 
 
-d3.json("http://bl.ocks.org/mbostock/raw/4063423/flare.json", function(error, root) {
+d3.json("data/90-103.json", function(error, root) {
 
   console.log(root);
   var path = svg.datum(root).selectAll("path")
