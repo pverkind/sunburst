@@ -9,3 +9,6 @@ https://pverkind.github.io/sunburst/sunburst_103-133.html
 https://pverkind.github.io/sunburst/sunburst_78-90.html
 
 https://pverkind.github.io/sunburst/sunburst_90-103.html
+
+
+Zoomless sunburst: based on http://jsfiddle.net/5d0zd2s7/
